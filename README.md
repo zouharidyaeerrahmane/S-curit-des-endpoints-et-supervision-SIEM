@@ -1,11 +1,11 @@
-# 🛡️ Atelier Sécurité des Endpoints - Wazuh SIEM/EDR
+#  Atelier Sécurité des Endpoints - Wazuh SIEM/EDR
 
 > **Supervision SIEM et EDR avec Wazuh**  
 > Étude de cas multi-OS (Linux & Windows) sur AWS
 
 ![Architecture](assets/architecture.png)
 
-## 📋 Table des matières
+##  Table des matières
 
 - [Introduction](#introduction)
 - [Architecture de la solution](#architecture-de-la-solution)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Introduction
+##  Introduction
 
 ### Contexte du projet
 
@@ -61,7 +61,7 @@ Ce projet vise à déployer une infrastructure complète de sécurité basée su
 
 ---
 
-## 🏗️ Architecture de la solution
+##  Architecture de la solution
 
 ### Vue d'ensemble
 
@@ -146,7 +146,7 @@ Type: RDP, Port: 3389, Source: 105.66.131.48/32
 
 ---
 
-## 🚀 Déploiement de l'infrastructure
+##  Déploiement de l'infrastructure
 
 ### Phase 1: Création des instances EC2
 
@@ -251,7 +251,7 @@ sudo systemctl status wazuh-dashboard
 
 ---
 
-## 🔗 Enrôlement des clients
+##  Enrôlement des clients
 
 ### Enrôlement du client Linux
 
@@ -308,7 +308,7 @@ sudo systemctl status wazuh-dashboard
 
 ---
 
-## 🔍 Démonstrations SIEM et EDR
+##  Démonstrations SIEM et EDR
 
 ### Démonstration SIEM côté Linux
 
@@ -377,7 +377,7 @@ Filtres utilisés pour vérifier la détection des événements :
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 Ce projet nous a permis de déployer avec succès une infrastructure complète de supervision de sécurité combinant SIEM et EDR à travers la solution Wazuh sur AWS. Nous avons acquis une compréhension pratique et opérationnelle du fonctionnement d'un SOC moderne, en couvrant trois axes majeurs de la cybersécurité : l'Endpoint Security, l'Identity and Access Management et le Threat Detection.
 
@@ -388,3 +388,4 @@ Cette expérience constitue une base solide pour comprendre les enjeux de la cyb
 **Date :** 03 Janvier 2026  
 **Plateforme :** AWS Learner Lab  
 **Solution :** Wazuh 4.14
+**ZOUHARI Dyae errahmane** all rights reserved
