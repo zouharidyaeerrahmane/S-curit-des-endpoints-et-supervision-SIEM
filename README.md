@@ -3,8 +3,6 @@
 > **Supervision SIEM et EDR avec Wazuh**  
 > Étude de cas multi-OS (Linux & Windows) sur AWS
 
-![Architecture](assets/1(1).png)
-
 ##  Table des matières
 
 - [Introduction](#introduction)
@@ -67,7 +65,7 @@ Ce projet vise à déployer une infrastructure complète de sécurité basée su
 
 L'architecture déployée repose sur un modèle client-serveur avec trois instances EC2 AWS, toutes situées dans le même VPC pour assurer une communication optimale.
 
-![Architecture complète](assets/1.png)
+![Architecture complète](assets/1(1).png)
 
 ### Composants de l'infrastructure
 
