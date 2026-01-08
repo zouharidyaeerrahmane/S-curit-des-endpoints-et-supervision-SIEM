@@ -385,5 +385,5 @@ Cette expérience constitue une base solide pour comprendre les enjeux de la cyb
 
 **Date :** 03 Janvier 2026  
 **Plateforme :** AWS Learner Lab  
-**Solution :** Wazuh 4.14
+**Solution :** Wazuh 4.14   
 **ZOUHARI Dyae errahmane** all rights reserved
