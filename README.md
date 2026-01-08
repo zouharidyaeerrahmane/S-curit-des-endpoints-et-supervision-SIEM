@@ -3,7 +3,7 @@
 > **Supervision SIEM et EDR avec Wazuh**  
 > Étude de cas multi-OS (Linux & Windows) sur AWS
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/1.png)
 
 ##  Table des matières
 
